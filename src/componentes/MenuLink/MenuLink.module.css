@@ -1,0 +1,10 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color:var(--columbia-blue);
+}
+
+.linkDestacado{
+    color:var(--selective-yellow);
+    font-weight: 900;
+}
